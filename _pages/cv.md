@@ -11,54 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational Mathematics, Wuhan University, 2000-2005
+* B.S. in Applied Math, Wuhan University, 1996-2000
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **2024.03-present** Distinguished Professor, College of Computer Science & Software Engineering, Shenzhen University
+* **2013.12-2024.02** Professor, School of Mathematics and Statistics, WUhan University
+* **2015.09-2016.09** Researcher, College of Engineering, University of California, Davis
+* **2007.12-2013.11** Associate Professor, School of Mathematics and Statistics, Wuhan University
+* **2012.07-2012.09** Associate Researcher, Centre for Chaos and Complex Networks, Department of Electronic Engineering, City University of Hong Kong
+* **2008-08-2008-11** Associate Researcher, School of Computer, Data and Mathematical Sciences, Western Sydney University, Australia
+* **2005-07-2007-11** Lecturer, School of Mathematics and Statistics, Wuhan University
+* **2005-08-2006-10** Associate Researcher, Department of Electronic and Information Engineering, The Hong Kong Polytechnic University
+* **2004-02-2005-03** Assistant Researcher, Department of Electronic and Information Engineering, The Hong Kong Polytechnic University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
