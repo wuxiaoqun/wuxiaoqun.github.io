@@ -7,7 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+PhD Students
+======
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+
+
+Master Students
+======
+
