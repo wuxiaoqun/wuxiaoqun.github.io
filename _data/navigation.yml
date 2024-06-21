@@ -1,10 +1,15 @@
 # main links links
 main:
-  - title: "PUBLICATIONS"
-    url: /publications/
+
+  - title: "HOME"
+    url: https://wuxiaoqun.github.io
 
   - title: "CV"
     url: /cv/
+  - title: "PUBLICATIONS"
+    url: /publications/
+
+
     
   - title: "GROUP"
     url: /talks/    
