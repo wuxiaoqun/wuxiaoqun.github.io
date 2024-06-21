@@ -14,13 +14,26 @@ PhD Students
 
 Master Students
 ======
-<center class="img">
-    <div>
-        <img title="Hongfeng Hu" src="/images/huhongfeng.png" alt="Hongfeng Hu" width="30%" height="30%">
-        <p>Hongfeng Hu</p>
-    </div>
-    <div>
-        <img title="Hongfeng Hu" src="/images/huhongfeng.png" alt="Hongfeng Hu" width="30%" height="30%">
-        <p>Hongfeng Hu</p>
-    </div>
-</center>
+<div style="display: flex; justify-content: center;">
+
+<div style="margin-right: 10px;">
+    ![Hongfeng Hu](/images/huhongfeng.png)
+    <p style="text-align: center;">Hongfeng Hu</p>
+</div>
+
+<div style="margin-right: 10px;">
+    ![Hongfeng Hu](/images/huhongfeng.png)
+    <p style="text-align: center;">Hongfeng Hu</p>
+</div>
+
+<div style="margin-right: 10px;">
+    ![Hongfeng Hu](/images/huhongfeng.png)
+    <p style="text-align: center;">Hongfeng Hu</p>
+</div>
+
+<div>
+    ![Hongfeng Hu](/images/huhongfeng.png)
+    <p style="text-align: center;">Hongfeng Hu</p>
+</div>
+
+</div>
