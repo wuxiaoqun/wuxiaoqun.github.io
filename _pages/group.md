@@ -15,6 +15,6 @@ PhD Students
 Master Students
 ======
 <center class ='img'>
-    <img title="Hongfeng Hu" src="/images/huhongfeng.png" width="45%">
-    <img title="Hongfeng Hu" src="/images/huhongfeng.png" width="45%">                                            
+    <img title="Hongfeng Hu" src="/images/huhongfeng.png" width="20%">
+    <img title="Hongfeng Hu" src="/images/huhongfeng.png" width="20%">                                            
 </center>
