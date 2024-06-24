@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computational Mathematics, Wuhan University, 2000-2005
-* B.S. in Applied Math, Wuhan University, 1996-2000
+* Ph.D. in Computational Mathematics, Wuhan University, 2000-2005
+* B.Sc. in Applied Mathematics, Wuhan University, 1996-2000
 
-Work experience
+Work Experience
 ======
 **[1]2024.03~present**
 
@@ -22,7 +22,7 @@ Work experience
  
 **[2]2013.12~2024.02**
 
-School of Mathematics and Statistics, WUhan University \| Professor
+School of Mathematics and Statistics, Wuhan University \| Professor
 
 **[3]2015.09~2016.09**
 
@@ -36,7 +36,7 @@ School of Mathematics and Statistics, Wuhan University \| Associate Professor
 
 Centre for Chaos and Complex Networks, Department of Electronic Engineering, City University of Hong Kong \| Associate Researcher
 
-**[6]2008-08~2008-11**
+**[6]2008.08~2008.11**
 
 School of Computer, Data and Mathematical Sciences, Western Sydney University, Australia \| Associate Researcher
 
