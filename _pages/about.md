@@ -21,9 +21,9 @@ Prof. Wu has published over **130** SCI journal papers, with over **100** of the
 
 Research Projects
 ======
-1. National Natural Science Foundation of China, Major Research Plan, 92267101, System Topology Identification and Optimization for Industrial Internet, 2023-01-01~2025-12-31.
-2. National Natural Science Foundation of China, General Program, 61973241, Synchronization and Diffusion in Multi-layer Complex Dynamic Networks and Its Applications, 2020- 01-01~2023-12-31.
-3. Ministry of Science and Technology, National Key R&D Program Project, 2018AAA0101100, Organizational Design and Regulation of Group Collaboration, 2019-12~2022-12.
-4. Hubei Provincial Natural Science Foundation, Distinguished Young Scholars Project, 2017CFA052, Mobile Big Data Analysis Based on Complex Networks, 2017-01~2019-12.
+1. National Natural Science Foundation of China, Major Research Plan, 92267101, System Topology Identification and Optimization for Industrial Internet, 2023.01.01~2025.12.31.
+2. National Natural Science Foundation of China, General Program, 61973241, Synchronization and Diffusion in Multi-layer Complex Dynamic Networks and Its Applications, 2020.01.1~2023.12.31.
+3. Ministry of Science and Technology, National Key R&D Program Project, 2018AAA0101100, Organizational Design and Regulation of Group Collaboration, 2019.12~2022.12.
+4. Hubei Provincial Natural Science Foundation, Distinguished Young Scholars Project, 2017CFA052, Mobile Big Data Analysis Based on Complex Networks, 2017.01~2019.12.
 5. National Natural Science Foundation of China, General Program, 61573262, Cognition of Complex Social Networks Based on Mobile Location, 2016.01~2019.12.
 6. National Natural Science Foundation of China, General Program, 61174028, Structure Detection of Noisy Complex Dynamic Networks Based on Granger Causality, 2012.01~2015.12.
