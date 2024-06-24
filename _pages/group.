@@ -8,30 +8,41 @@ author_profile: true
 {% include base_path %}
 
 <style>
-table, th, td
-{
-    border: 1px solid black;
-}
+    table
+    {
+        border-collapse:collapse;
+        border:none;
+    }
+    td
+    {
+        text-align: center;
+    }
+    tr:hover {
+        background-color: lightgray;
+    }
+    tr:nth-child(odd) {
+        background-color: lightgray;
+    }
+
 </style>
 Current Students
 
-  
-<table frame=void rules=none >
-  <tr>
-    <td>Jiawei Mao</td>
-    <td>2024 - Present</td>
-    <td>Ph.D. candidate</td>
-  </tr>
-  <tr>
-    <td>Yuxiang Zhong</td>
-    <td>2024 - Present</td>
-    <td>Ph.D. candidate</td>
-  </tr>
-  <tr>
-    <td>Qirui Huang</td>
-    <td>2023 - Present</td>
-    <td>Ph.D. candidate</td>
-  </tr>
+<table >
+    <tr>
+        <td>Jiawei Mao</td>
+        <td>2024 - Present</td>
+        <td>Ph.D. candidate</td>
+    </tr>
+    <tr>
+        <td>Yuxiang Zhong</td>
+        <td>2024 - Present</td>
+        <td>Ph.D. candidate</td>
+    </tr>
+    <tr>
+        <td>Qirui Huang</td>
+        <td>2023 - Present</td>
+        <td>Ph.D. candidate</td>
+    </tr>
 </table>
 
 Graduated Students
