@@ -9,7 +9,7 @@ author_profile: true
 
 Current Students
 ======
-<table border="">
+<table frame=void rules=none >
   <tr>
     <td>Jiawei Mao</td>
     <td>2024 - Present</td>
