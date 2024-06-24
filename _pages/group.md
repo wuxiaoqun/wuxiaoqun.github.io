@@ -14,26 +14,20 @@ PhD Students
 
 Master Students
 ======
-<div style="display: flex; justify-content: center;">
-
-<div style="margin-right: 10px;">
-    <img title="Hongfeng Hu" src="/images/huhongfeng.png" alt="Hongfeng Hu" >
-    <p style="text-align: center;">Hongfeng Hu</p>
-</div>
-
-<div style="margin-right: 10px;">
-    <img title="Hongfeng Hu" src="/images/huhongfeng.png" alt="Hongfeng Hu" >
-    <p style="text-align: center;">Hongfeng Hu</p>
-</div>
-
-<div style="margin-right: 10px;">
-    <img title="Hongfeng Hu" src="/images/huhongfeng.png" alt="Hongfeng Hu" >
-    <p style="text-align: center;">Hongfeng Hu</p>
-</div>
-
-<div>
-    <img title="Hongfeng Hu" src="/images/huhongfeng.png" alt="Hongfeng Hu" >
-    <p style="text-align: center;">Hongfeng Hu</p>
-</div>
-
-</div>
+<table>
+  <tr>
+    <td>Jiawei Mao</td>
+    <td>2024 - Present</td>
+    <td>Ph.D. candidate</td>
+  </tr>
+  <tr>
+    <td>Yuxiang Zhong</td>
+    <td>2024 - Present</td>
+    <td>Ph.D. candidate</td>
+  </tr>
+  <tr>
+    <td>Qirui Huang</td>
+    <td>2023 - Present</td>
+    <td>Ph.D. candidate</td>
+  </tr>
+</table>
