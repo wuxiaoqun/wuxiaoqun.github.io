@@ -29,10 +29,9 @@ Current Students
 
 Graduated Students
 =======
-<table>
-  <tr>
-    <td>Jiawei Mao</td>
-    <td>2024 - Present</td>
-    <td>Ph.D. candidate</td>
-  </tr>
-</table>
+| Jiawei Mao | 2024 - Present | Ph.D. candidate |
+| ---------- | -------------- | --------------- |
+| Jiawei Mao | 2024 - Present | Ph.D. candidate |
+| Haoran Xiong | 2024 - Present | Ph.D. candidate |
+| Haoran Xiong | 2024 - Present | Ph.D. candidate |
+
