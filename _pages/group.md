@@ -7,12 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-PhD Students
-======
-
-
-
-Master Students
+Current Students
 ======
 <table>
   <tr>
@@ -28,6 +23,16 @@ Master Students
   <tr>
     <td>Qirui Huang</td>
     <td>2023 - Present</td>
+    <td>Ph.D. candidate</td>
+  </tr>
+</table>
+
+Graduated Students
+=======
+<table>
+  <tr>
+    <td>Jiawei Mao</td>
+    <td>2024 - Present</td>
     <td>Ph.D. candidate</td>
   </tr>
 </table>
