@@ -7,8 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
+table, th, td
+{
+    border: 1px solid black;
+}
+</style>
 Current Students
-======
+
+  
 <table frame=void rules=none >
   <tr>
     <td>Jiawei Mao</td>
