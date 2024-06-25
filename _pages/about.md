@@ -28,4 +28,4 @@ Research Projects
 5. National Natural Science Foundation of China, General Program, 61573262, Cognition of Complex Social Networks Based on Mobile Location, 2016.01~2019.12，PI. (国家自然科学基金面上项目, 基于移动位置的复杂社会网络认知, 主持)
 6. National Natural Science Foundation of China, General Program, 61174028, Structure Detection of Noisy Complex Dynamic Networks Based on Granger Causality, 2012.01~2015.12，PI. (国家自然科学基金面上项目, 基于格兰杰因果关系的含噪声复杂动态网络的结构探测, 主持)
 7. National Natural Science Foundation of China, Youth Program, 60804039, Topology Identification and Synchronization of Uncertain Complex Networks Based on Pinning Control, 2009.01~2011.12，PI.   (国家自然科学基金青年项目, 不确定复杂网络基于牵制的拓扑识别与同步, 主持) 
-8. National Natural Science Foundation of China, Tianyuan Youth Program, 10626040, Bifurcation of Switching Systems in Power Electronics and Its Application, 2007.01~2007.12，PI. (国家自然科学基金数学天元基金, 分岔分析及其在电力电子切换系统中的应用，主持） 
+8. National Natural Science Foundation of China, Tianyuan Youth Program, 10626040, Bifurcation and Its Application in  Power Electronic Switching Systems, 2007.01~2007.12，PI. (国家自然科学基金数学天元基金, 分岔分析及其在电力电子切换系统中的应用，主持） 
