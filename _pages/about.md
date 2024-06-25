@@ -21,10 +21,11 @@ Prof. Wu has published over **130** SCI journal papers, with over **100** of the
 
 Research Projects
 ======
-1. National Natural Science Foundation of China, Major Research Plan, 92267101, System Topology Identification and Optimization for Industrial Internet, 2023.01.01~2025.12.31，PI. (重大研究计划, 面向工业互联网的系统拓扑结构识别与优化，主持）
-2. National Natural Science Foundation of China, General Program, 61973241, Synchronization and Diffusion in Multi-layer Complex Dynamic Networks and Its Applications, 2020.01.1~2023.12.31，PI.  (国家自然科学基金面上项目，多层复杂动态网络中的同步和扩散及其应用，主持)
-3. Ministry of Science and Technology, National Key R&D Program Project, 2018AAA0101100, Organizational Design and Regulation of Group Collaboration, 2019.12~2022.12. （国家重点研发计划课题, 群体协作的组织设计与调控，参与）
-4. Hubei Provincial Natural Science Foundation, Distinguished Young Scholars Project, 2017CFA052, Mobile Big Data Analysis Based on Complex Networks, 2017.01~2019.12，PI. （湖北省自然科学基金杰青项目，基于复杂网络的移动大数据分析，主持）
-5. National Natural Science Foundation of China, General Program, 61573262, Cognition of Complex Social Networks Based on Mobile Location, 2016.01~2019.12，PI. (国家自然科学基金面上项目， 基于移动位置的复杂社会网络认知，主持)
-6. National Natural Science Foundation of China, General Program, 61174028, Structure Detection of Noisy Complex Dynamic Networks Based on Granger Causality, 2012.01~2015.12，PI. (国家自然科学基金面上项目，基于格兰杰因果关系的含噪声复杂动态网络的结构探测，主持)
-   
+1. National Natural Science Foundation of China, Major Research Plan, 92267101, System Topology Identification and Optimization for Industrial Internet, 2023.01.01~2025.12.31，PI. (重大研究计划, 面向工业互联网的系统拓扑结构识别与优化, 主持）
+2. National Natural Science Foundation of China, General Program, 61973241, Synchronization and Diffusion in Multi-layer Complex Dynamic Networks and Its Applications, 2020.01.1~2023.12.31，PI.  (国家自然科学基金面上项目, 多层复杂动态网络中的同步和扩散及其应用, 主持)
+3. Ministry of Science and Technology, National Key R&D Program Project, 2018AAA0101100, Organizational Design and Regulation of Group Collaboration, 2019.12~2022.12. （国家重点研发计划课题, 群体协作的组织设计与调控, 参与）
+4. Hubei Provincial Natural Science Foundation, Distinguished Young Scholars Project, 2017CFA052, Mobile Big Data Analysis Based on Complex Networks, 2017.01~2019.12，PI. （湖北省自然科学基金杰青项目, 基于复杂网络的移动大数据分析, 主持）
+5. National Natural Science Foundation of China, General Program, 61573262, Cognition of Complex Social Networks Based on Mobile Location, 2016.01~2019.12，PI. (国家自然科学基金面上项目, 基于移动位置的复杂社会网络认知, 主持)
+6. National Natural Science Foundation of China, General Program, 61174028, Structure Detection of Noisy Complex Dynamic Networks Based on Granger Causality, 2012.01~2015.12，PI. (国家自然科学基金面上项目, 基于格兰杰因果关系的含噪声复杂动态网络的结构探测, 主持)
+7. National Natural Science Foundation of China, Youth Program, 60804039, Topology Identification and Synchronization of Uncertain Complex Networks Based on Pinning Control, 2009.01~2011.12，PI.   (国家自然科学基金青年项目, 不确定复杂网络基于牵制的拓扑识别与同步, 主持) 
+8. National Natural Science Foundation of China, Tianyuan Youth Program, 10626040, Bifurcation of Switching Systems in Power Electronics and Its Application, 2007.01~2007.12，PI. (国家自然科学基金数学天元基金, 分岔分析及其在电力电子切换系统中的应用，主持） 
