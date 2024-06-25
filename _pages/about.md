@@ -18,6 +18,11 @@ Prof. Wu has published over **130** SCI journal papers, with over **100** of the
 
 > I am looking for talented students with a strong background in one or more of the following fields: Mathematics, Control Engineering, Computer Science and Systems Science, and we have opening positions of Assistant Professor, Associate Researcher, PosDoc, PhD, Msc and visiting students. Please drop me an email with your resume if you are interested in working with me. 
 
+Research Interests
+======
+- Parameter estimation and network reconstruction
+- Control of multi-agent systems
+- Synchronization and diffusion on (multilayer/multiplex) complex networks 
 
 Research Projects
 ======
